@@ -2,6 +2,8 @@
 
 Free disk visualiser and cleaner. One small download, no installer, no accounts, no telemetry. Everything Broom removes goes to your system Bin, never permanent deletion.
 
+The one part that is not local is **Ask Broom**, the optional assistant on the Home screen. Turn it on and your question plus a summary of the scan (folder and file names, paths and sizes, never the contents of any file) is sent to Broom's service to be answered. Everything else, including every scan and every removal, happens entirely on your machine.
+
 **Try it in your browser first:** https://broom.ste-hosea.workers.dev
 
 ## Downloads
